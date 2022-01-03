@@ -1,0 +1,48 @@
+\contentsline {section}{\numberline {1}簡介}{2}{section.1}%
+\contentsline {paragraph}{}{2}{section*.2}%
+\contentsline {paragraph}{}{2}{section*.3}%
+\contentsline {section}{\numberline {2}演算法細節}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}定義}{2}{subsection.2.1}%
+\contentsline {paragraph}{}{2}{section*.4}%
+\contentsline {paragraph}{}{2}{section*.5}%
+\contentsline {paragraph}{}{2}{section*.6}%
+\contentsline {paragraph}{}{2}{section*.7}%
+\contentsline {subsection}{\numberline {2.2}世界更新方式}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}生成移動場}{2}{subsubsection.2.2.1}%
+\contentsline {paragraph}{}{2}{section*.8}%
+\contentsline {paragraph}{}{2}{section*.9}%
+\contentsline {subsubsection}{\numberline {2.2.2}費洛蒙殘留}{2}{subsubsection.2.2.2}%
+\contentsline {paragraph}{}{2}{section*.10}%
+\contentsline {subsubsection}{\numberline {2.2.3}費洛蒙揮發}{2}{subsubsection.2.2.3}%
+\contentsline {paragraph}{}{2}{section*.11}%
+\contentsline {subsection}{\numberline {2.3}移動方式}{3}{subsection.2.3}%
+\contentsline {paragraph}{}{3}{section*.12}%
+\contentsline {subsubsection}{\numberline {2.3.1}區域極值問題}{3}{subsubsection.2.3.1}%
+\contentsline {paragraph}{}{3}{section*.13}%
+\contentsline {paragraph}{}{3}{section*.14}%
+\contentsline {subsubsection}{\numberline {2.3.2}邊界問題}{3}{subsubsection.2.3.2}%
+\contentsline {paragraph}{}{3}{section*.15}%
+\contentsline {subsubsection}{\numberline {2.3.3}缺乏探索問題}{3}{subsubsection.2.3.3}%
+\contentsline {paragraph}{}{3}{section*.16}%
+\contentsline {paragraph}{}{3}{section*.17}%
+\contentsline {subsubsection}{\numberline {2.3.4}LH和LF的差異}{3}{subsubsection.2.3.4}%
+\contentsline {paragraph}{}{3}{section*.18}%
+\contentsline {subsection}{\numberline {2.4}蟻群自我調節方式}{3}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}螞蟻的出生}{3}{subsubsection.2.4.1}%
+\contentsline {paragraph}{}{3}{section*.19}%
+\contentsline {subsubsection}{\numberline {2.4.2}螞蟻的死亡}{3}{subsubsection.2.4.2}%
+\contentsline {paragraph}{}{3}{section*.20}%
+\contentsline {subsubsection}{\numberline {2.4.3}螞蟻吃掉食物}{3}{subsubsection.2.4.3}%
+\contentsline {paragraph}{}{3}{section*.21}%
+\contentsline {section}{\numberline {3}GUI介面}{4}{section.3}%
+\contentsline {paragraph}{}{4}{section*.22}%
+\contentsline {section}{\numberline {4}實驗記錄}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}地圖0}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}地圖1}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}地圖2}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {5}程式碼}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}程式簡介}{11}{subsection.5.1}%
+\contentsline {paragraph}{}{11}{section*.23}%
+\contentsline {paragraph}{}{11}{section*.24}%
+\contentsline {subsection}{\numberline {5.2}使用方式}{11}{subsection.5.2}%
+\contentsline {paragraph}{}{11}{section*.25}%
